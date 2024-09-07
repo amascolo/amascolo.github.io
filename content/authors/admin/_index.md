@@ -68,9 +68,9 @@ education:
       Received a National Merit Scholarship.
 
       Thesis on _Applications of Social Choice and Game Theory to Decision Theory_.
-    button:
-      text: 'Read Thesis'
-      url: ../uploads/anu-thesis.pdf
+    # button:
+    #   text: 'Read Thesis'
+    #   url: ../uploads/anu-thesis.pdf
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01

@@ -5,6 +5,8 @@ date: '2015-05-27'
 publishDate: '2024-09-07T23:10:00.937729Z'
 publication_types: ['thesis']
 
+featured: true
+
 abstract: |
     Social choice and game theory are formal tools usually employed to study situations where there are multiple agents present. Game theory is used to model the strategic interactions of a group of individual agents in situations of conflict or cooperation, while social choice theory is concerned with aggregating the preferences or beliefs of a group of individual agents. Both frameworks stand in contrast to decision theory, which studies how an individual agent ought to make rational decisions given its preferences and beliefs.
     

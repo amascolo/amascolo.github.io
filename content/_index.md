@@ -54,15 +54,27 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
-      title: 🎓 Working papers & theses
+      title: 📜 Working papers
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
+  # - block: collection
+  #   id: theses
+  #   content:
+  #     title: 🎓 Theses
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   # - block: collection
   #   id: talks
   #   content:

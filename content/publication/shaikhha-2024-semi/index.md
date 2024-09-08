@@ -13,6 +13,8 @@ date: '2024-07-01'
 publishDate: '2024-09-07T21:51:25.804016Z'
 publication_types: ['article']
 
+featured: false
+
 abstract: |
   This article introduces semi-ring dictionaries, a powerful class of compositional and purely functional collections that subsume other collection types such as sets, multisets, arrays, vectors, and matrices.
   

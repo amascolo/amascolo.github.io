@@ -182,6 +182,6 @@ education:
 
 <!-- ## About Me -->
 
-I'm a postgraduate supervised by [Amir Shaikhha](https://amirsh.github.io/) at the School of Informatics. My research goal is to spearhead progress in AI by improving libraries and abstractions.
+I am a postgraduate supervised by [Amir Shaikhha](https://amirsh.github.io/) at the School of Informatics. My research goal is to spearhead progress in AI by improving libraries and abstractions.
 
-Previously, I was an engineer at deep tech startups, joined [Entrepreneur First](https://www.joinef.com/), and worked as a quantitative developer on systematic futures and market making desks.
+Previously, I worked as an engineer at deep tech startups, joined [Entrepreneur First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.

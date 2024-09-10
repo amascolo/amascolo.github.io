@@ -60,7 +60,7 @@ education:
       Fully funded by a departmental scholarship.
 
       Research on probabilistic programming languages.
-  - area: BSc Computer Science
+  - area: BSc (Hons I) Computer Science
     institution: Australian National University
     date_start: 2011-02-01
     date_end: 2015-07-31

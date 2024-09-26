@@ -50,8 +50,8 @@ profiles:
 
 interests:
   - Compiled query engines
-  - Probabilistic inference
-  - Sparse tensor algebra
+  - Probabilistic programming
+  - Efficient discrete inference
 
 education:
   - area: MRes Machine Learning Systems

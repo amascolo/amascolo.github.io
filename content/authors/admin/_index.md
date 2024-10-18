@@ -50,26 +50,26 @@ profiles:
 
 interests:
   - Compiled query engines
-  - Probabilistic programming
-  - Efficient discrete inference
+  - Large-scale data processing
+  - Program transformations
 
 education:
-  - area: MRes Machine Learning Systems
+  - area: MRes Computer Science
     institution: University of Edinburgh
     date_start: 2024-05-01
     date_end: 2025-04-30
-    summary: |
-      Fully funded by a departmental scholarship.
+    # summary: |
+    #   Fully funded by a departmental scholarship.
 
-      Research on probabilistic programming languages.
-  - area: BSc (Hons I) Computer Science
+    #   Research on probabilistic programming languages.
+  - area: BSc Computer Science
     institution: Australian National University
     date_start: 2011-02-01
     date_end: 2015-07-31
-    summary: |
-      Received a National Merit Scholarship.
+    # summary: |
+    #   Received a National Merit Scholarship.
 
-      Thesis on _Applications of Social Choice and Game Theory to Decision Theory_.
+    #   Thesis on _Applications of Social Choice and Game Theory to Decision Theory_.
     # button:
     #   text: 'Read Thesis'
     #   url: ../uploads/anu-thesis.pdf
@@ -184,6 +184,6 @@ education:
 
 <!-- ## About Me -->
 
-I am a postgraduate supervised by [Amir Shaikhha](https://amirsh.github.io/) at the School of Informatics. My research goal is to spearhead progress in AI by improving libraries and abstractions.
+I am a postgraduate supervised by [Amir Shaikhha](https://amirsh.github.io/) at the School of Informatics. My goal is to spearhead technological progress through improved software abstractions.
 
 Previously, I worked as an engineer at deep tech startups, joined [Entrepreneur First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  19 JAN 2025 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  19 JAN 2025 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,7 +697,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  31601 strings out of 474116
- 669296 string characters out of 5743683
+ 669236 string characters out of 5743683
  1944187 words of memory out of 5000000
  53601 multiletter control sequences out of 15000+600000
  566331 words of font info for 65 fonts, out of 8000000 for 9000
@@ -718,7 +718,7 @@ blic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/
 wasy-type1/wasy10.pfb>
-Output written on CV.pdf (1 page, 166896 bytes).
+Output written on CV.pdf (1 page, 166880 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream

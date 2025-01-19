@@ -38,7 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexandermascolo/
   - icon: academicons/cv
-    url: ../../uploads/cv/CV.pdf
+    url: /uploads/cv/CV.pdf
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram

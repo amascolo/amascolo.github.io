@@ -49,9 +49,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Compiled query engines
-  - Large-scale data processing
-  - Program transformations
+  - AI and compilers
+  - Deep tech startups
+  - Financial markets
 
 education:
   - area: MSc Computer Science

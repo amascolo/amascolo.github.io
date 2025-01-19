@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:a.mascolo@ed.ac.uk'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:alexander.mascolo@gmail.com'
+  #   label: E-mail Me
   - icon: brands/github
     url: https://github.com/amascolo
   - icon: brands/linkedin

@@ -184,6 +184,6 @@ education:
 
 <!-- ## About Me -->
 
-I have been researching [programming languages](https://www.sparsity.ai/publication/sdql/) and [compilers](https://github.com/edin-dal/sdql) for data science. My goal is to spearhead technological progress through improved software abstractions.
+I have been researching [programming languages](/publication/sdql/) and [compilers](https://github.com/edin-dal/sdql) for data science. My goal is to spearhead technological progress through improved software abstractions.
 
 Previously, I worked as an engineer at deep tech startups, joined [Entrepreneur First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.

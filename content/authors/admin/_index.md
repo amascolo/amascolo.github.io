@@ -24,8 +24,8 @@ role: Postgraduate Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Edinburgh
-    url: https://informatics.ed.ac.uk/
+  # - name: University of Edinburgh
+  #   url: https://informatics.ed.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,7 +54,7 @@ interests:
   - Program transformations
 
 education:
-  - area: MRes Computer Science
+  - area: MSc Computer Science
     institution: University of Edinburgh
     date_start: 2024-05-01
     date_end: 2025-04-30

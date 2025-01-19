@@ -53,17 +53,17 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
-    id: papers
-    content:
-      title: 📜 Working papers
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      view: citation
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: 📜 Working papers
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: theses
   #   content:

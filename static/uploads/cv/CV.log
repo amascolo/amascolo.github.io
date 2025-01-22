@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  19 JAN 2025 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  22 JAN 2025 13:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,24 +545,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ) (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -586,7 +586,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
 
 (./CV.out) (./CV.out)
 \@outlinefile=\write4
@@ -594,88 +594,88 @@ Package hyperref Info: Link coloring OFF on input line 15.
 
  (./CV.bbl)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 26.
+nput line 27.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 26.
+(Font)              <9> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
+(Font)              <6> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 26
+(Font)              <5> on input line 27.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 27
 .
  (/usr/local/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 26.
+nput line 27.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
-Overfull \hbox (1.10184pt too wide) detected at line 26
+Overfull \hbox (1.10184pt too wide) detected at line 27
  []
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
 <all-twemojis.pdf, id=10, page=106, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 32.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 35.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 36.
+ input line 39.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 36.
+n input line 39.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 42.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 45.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 50.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 53.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 58.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 61.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=13, page=32, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 32>
-Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 66.
+Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 69.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 32>
-Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 77.
+Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 80.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=14, page=279, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 279>
-Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 86.
+Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 89.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 98.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 32>
-Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 102.
+Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 105.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 102.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 105.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=15, page=142, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 142>
-Package pdftex.def Info: all-twemojis.pdf , page142 used on input line 102.
+Package pdftex.def Info: all-twemojis.pdf , page142 used on input line 105.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 279>
-Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 102.
+Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 105.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
  [1
 
@@ -696,11 +696,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31601 strings out of 474116
- 669236 string characters out of 5743683
- 1944187 words of memory out of 5000000
+ 31599 strings out of 474116
+ 669210 string characters out of 5743683
+ 1943187 words of memory out of 5000000
  53601 multiletter control sequences out of 15000+600000
- 566331 words of font info for 65 fonts, out of 8000000 for 9000
+ 565985 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,5n,121p,439b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
@@ -713,15 +713,14 @@ pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publi
-c/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/
-wasy-type1/wasy10.pfb>
-Output written on CV.pdf (1 page, 166880 bytes).
+ublic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public
+/wasy-type1/wasy10.pfb>
+Output written on CV.pdf (1 page, 154724 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

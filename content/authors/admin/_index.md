@@ -186,4 +186,4 @@ education:
 
 I have been researching programming languages and compilers for data science. My goal is to spearhead technological progress through improved software abstractions.
 
-Previously, I worked as an engineer at deep tech startups, joined [Entrepreneur First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.
+Previously, I worked as an engineer at deep tech startups, joined [Entrepreneurs First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.

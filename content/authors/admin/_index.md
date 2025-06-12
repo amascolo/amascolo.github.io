@@ -54,10 +54,10 @@ interests:
   - Financial markets
 
 education:
-  - area: MSc Computer Science
+  - area: MRes Computer Science
     institution: University of Edinburgh
     date_start: 2024-05-01
-    date_end: 2025-04-30
+    date_end: 2025-05-31
     # summary: |
     #   Fully funded by a departmental scholarship.
 

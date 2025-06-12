@@ -49,9 +49,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - AI and compilers
+  - Compilers, query engines
+  - Functional programming
   - Deep tech startups
-  - Financial markets
 
 education:
   - area: MRes Computer Science

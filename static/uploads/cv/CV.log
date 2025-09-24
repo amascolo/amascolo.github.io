@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  23 SEP 2025 19:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.9)  23 SEP 2025 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,73 +628,73 @@ Package pdftex.def Info: techcrunch.png  used on input line 49.
 <all-twemojis.pdf, id=13, page=106, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 53.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 55.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 57.
+ input line 59.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 57.
+n input line 59.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 61.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 65.
+(pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
+File: all-twemojis.pdf Graphic file (type pdf)
+<use all-twemojis.pdf, page 106>
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 73.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: techcrunch.png Graphic file (type png)
 <use techcrunch.png>
-Package pdftex.def Info: techcrunch.png  used on input line 65.
+Package pdftex.def Info: techcrunch.png  used on input line 77.
 (pdftex.def)             Requested size: 11.99791pt x 11.99998pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 69.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 81.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
-<macquarie.png, id=16, 1516.66624pt x 1417.295pt>
+<macquarie.png, id=17, 1516.66624pt x 1417.295pt>
 File: macquarie.png Graphic file (type png)
 <use macquarie.png>
-Package pdftex.def Info: macquarie.png  used on input line 73.
+Package pdftex.def Info: macquarie.png  used on input line 85.
 (pdftex.def)             Requested size: 12.8209pt x 11.99998pt.
-File: all-twemojis.pdf Graphic file (type pdf)
-<use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 80.
-(pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=19, page=32, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 32>
-Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 88.
+Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 92.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <anu.png, id=20, 373.395pt x 298.11375pt>
 File: anu.png Graphic file (type png)
 <use anu.png>
-Package pdftex.def Info: anu.png  used on input line 92.
+Package pdftex.def Info: anu.png  used on input line 96.
 (pdftex.def)             Requested size: 15.0301pt x 11.99998pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 279>
-Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 97.
+Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 101.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 32>
-Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 113.
+Package pdftex.def Info: all-twemojis.pdf , page32 used on input line 117.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 106>
-Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 113.
+Package pdftex.def Info: all-twemojis.pdf , page106 used on input line 117.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=22, page=142, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 142>
-Package pdftex.def Info: all-twemojis.pdf , page142 used on input line 113.
+Package pdftex.def Info: all-twemojis.pdf , page142 used on input line 117.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 279>
-Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 113.
+Package pdftex.def Info: all-twemojis.pdf , page279 used on input line 117.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
 <all-twemojis.pdf, id=23, page=1729, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 1729>
-Package pdftex.def Info: all-twemojis.pdf , page1729 used on input line 113.
+Package pdftex.def Info: all-twemojis.pdf , page1729 used on input line 117.
 (pdftex.def)             Requested size: 6.83318pt x 6.83331pt.
  [1
 
@@ -718,7 +718,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  31611 strings out of 474116
  669171 string characters out of 5743683
- 1945187 words of memory out of 5000000
+ 1946187 words of memory out of 5000000
  53618 multiletter control sequences out of 15000+600000
  565674 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -737,7 +737,7 @@ ublic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public
 /wasy-type1/wasy10.pfb>
-Output written on CV.pdf (1 page, 237189 bytes).
+Output written on CV.pdf (1 page, 236888 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream

@@ -49,12 +49,12 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Compilers, query engines
-  - Functional programming
-  - Deep tech startups
+  - Agentic systems & evals
+  - Compilers & query engines
+  - Domain-specific languages
 
 education:
-  - area: MRes Computer Science
+  - area: M.S. Computer Science
     institution: University of Edinburgh
     date_start: 2024-05-01
     date_end: 2025-05-31
@@ -62,7 +62,7 @@ education:
     #   Fully funded by a departmental scholarship.
 
     #   Research on probabilistic programming languages.
-  - area: BSc Computer Science
+  - area: B.S. Computer Science
     institution: Australian National University
     date_start: 2011-02-01
     date_end: 2015-07-31
@@ -184,6 +184,6 @@ education:
 
 <!-- ## About Me -->
 
-I have been researching programming languages and compilers for data science. My goal is to spearhead technological progress through improved software abstractions.
+Currently building agentic systems at [Blok Intelligence](https://joinblok.co/) in San Francisco ☀️
 
-Previously, I worked as an engineer at deep tech startups, joined [Entrepreneurs First](https://www.joinef.com/), and was a quantitative developer on systematic strategies and market making desks.
+Previously, I have researched [compilers for data science](https://github.com/amascolo/sdql-rs), joined [Entrepreneurs First](https://joinef.com), and was a quantitative developer on systematic strategies and market making desks.

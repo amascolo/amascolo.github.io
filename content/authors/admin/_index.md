@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Engineer
+role: Member of Technical Staff
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

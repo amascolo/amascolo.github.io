@@ -184,6 +184,6 @@ education:
 
 <!-- ## About Me -->
 
-Currently building agentic systems at [Blok Intelligence](https://joinblok.co/) in San Francisco ☀️
+Currently building agentic systems at [Seldon](https://www.seldon.com/) in San Francisco ☀️
 
 Previously, I have researched [compilers for data science](https://github.com/amascolo/sdql-rs), joined [Entrepreneurs First](https://joinef.com), and was a quantitative developer on systematic strategies and market making desks.
